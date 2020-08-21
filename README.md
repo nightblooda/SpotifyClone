@@ -1,9 +1,9 @@
-<a href='https://codingwithmitch.com/courses/android-audio-streaming/' target='_blank'><img class='header-img' src='https://codingwithmitch.s3.amazonaws.com/static/android-spotify-clone/images/Spotify_Clone.png' /></a>
 
-<h1><a href='https://codingwithmitch.com/courses/android-audio-streaming/' target='_blank'>Audio Streaming on Android</a></h1>
-<h3><a href='https://codingwithmitch.com/courses/android-audio-streaming/' target='_blank'>Watch the app demo and see screen shots</a>.</h3>
 
-<p>In this course I teach you the current best practice way to build an audio streaming application on android. To make it more interesting, I designed it to look similar to the popular music streaming app called Spotify.<a href="https://codingwithmitch.com/courses/android-audio-streaming/"> View screen shots</a>.</p>
+<h1>Audio Streaming on Android</h1>
+<h3>See screen shots.</h3>
+
+<p>In this course I teach you the current best practice way to build an audio streaming application on android.</p>
 
 <p>I use the ExoPlayer library for streaming the audio files. The audio files are located online in a Firebase Firestore database. </p>
 
